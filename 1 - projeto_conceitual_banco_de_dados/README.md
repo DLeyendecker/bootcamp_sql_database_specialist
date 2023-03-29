@@ -1,17 +1,12 @@
-### desafio_api_flask
+### projeto_conceitual_banco_de_dados
+
 
 ### Sobre o projeto
-Criando uma API com Flask no Ambiente COLAB.
-
-Para este desafio envolve a entrega de uma API desenvolvida no framework Flask utilizando a Plataforma COLAB. 
-O Objetivo principal está relacionado com a leitura de uma planilha de dados no formato JSON utilizando uma API no ambiente de desenvolvimento colaborativo COLAB.
+Para este desafio envolve Refinar um Projeto Conceitual de Banco de Dados – E-COMMERCE.
 
 ### Tecnologias utilizadas
-* Python 
+* Software de Modelagem de Dados SQL.
 
 ## Autor
 Davi Leyendecker
 
-https://github.com/DaviLeyendecker
-
-https://www.linkedin.com/in/davileyendecker/
