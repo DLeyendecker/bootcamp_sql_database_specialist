@@ -3,7 +3,7 @@ O contexto geral sobre o uso do banco de dados na atualidade.
 
 ###- Ha um crescimento exponencial dos Sistemas de gerenciamento de bancos de dados(SGBD). E é necessário para o Engenheiro de Dados, buscar em se aperfeiçoar e se adaptar a esses plataformas.
 
-###O que é SQL e NoSQL?
+## O que é SQL e NoSQL?
 SQL e NoSQL são sistemas de gerenciamento de bancos de dados (SGBD) com abordagens diferentes para armazenamento e recuperação de dados. SQL é utilizado em bancos de dados relacionais, enquanto NoSQL é usado para dados não estruturados. A escolha entre SQL e NoSQL depende das necessidades específicas do projeto, sendo que bancos de dados relacionais são úteis para projetos que envolvem muitos relacionamentos entre os dados, enquanto bancos de dados NoSQL podem ser mais escaláveis e flexíveis para projetos que envolvem grandes quantidades de dados não estruturados.
 
 ###O NoSQL não foi criado para substituir o SQL?
