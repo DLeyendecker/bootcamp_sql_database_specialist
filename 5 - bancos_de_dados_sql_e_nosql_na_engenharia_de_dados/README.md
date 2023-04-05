@@ -1,7 +1,7 @@
 ### O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados
 O contexto geral sobre o uso do banco de dados na atualidade.
 
-###- Ha um crescimento exponencial dos Sistemas de gerenciamento de bancos de dados(SGBD). E é necessário para o Engenheiro de Dados, buscar em se aperfeiçoar e se adaptar a esses plataformas.
+Com o crescente volume e complexidade dos dados, o papel do Engenheiro de Dados torna-se cada vez mais importante. É fundamental que o engenheiro esteja atualizado sobre as novas tecnologias de SGBD, ferramentas e processos para garantir que esteja apto a trabalhar com os dados de maneira eficiente e eficaz. Isso envolve um constante aprendizado e aperfeiçoamento para se adaptar às mudanças e desafios do mercado de dados.
 
 ### O que é SQL e NoSQL?
 SQL e NoSQL são sistemas de gerenciamento de bancos de dados (SGBD) com abordagens diferentes para armazenamento e recuperação de dados. SQL é utilizado em bancos de dados relacionais, enquanto NoSQL é usado para dados não estruturados. A escolha entre SQL e NoSQL depende das necessidades específicas do projeto, sendo que bancos de dados relacionais são úteis para projetos que envolvem muitos relacionamentos entre os dados, enquanto bancos de dados NoSQL podem ser mais escaláveis e flexíveis para projetos que envolvem grandes quantidades de dados não estruturados.
@@ -21,7 +21,7 @@ O NoSQL é mais flexível que o SQL em relação ao esquema de dados, permitindo
 ### Evolução da arquitetura de sistemas e transições de estruturas.
 A evolução da arquitetura de sistemas tem sido marcada pela transição de arquiteturas monolíticas para arquiteturas distribuídas, baseadas em microsserviços e contêineres. Essa transição tem sido impulsionada pela necessidade de escalabilidade, flexibilidade e resiliência em ambientes de computação em nuvem.
 
-### Sobre Datalake e Databricks
+### Sobre Datalake e Databricks.
 Datalake é um repositório de dados que permite armazenar grandes quantidades de dados em diferentes formatos e estruturas. Já o Databricks é uma plataforma de análise de dados baseada em nuvem que permite criar e gerenciar pipelines de dados, realizar análise de dados em grande escala e implementar modelos de aprendizado de máquina e inteligência artificial em produção. O Databricks é construído sobre a tecnologia Apache Spark e pode ser usado com um datalake ou outras fontes de dados.
 
 ### Quais os maiores desafios na hora de realizar o ETL?
